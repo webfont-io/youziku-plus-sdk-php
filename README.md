@@ -16,7 +16,7 @@ SDK的返回值主要内容是@font-face语句，@font-face语句是CSS3中的�
 用户将返回的@font-face与返回的混淆内容一起存放数据库，当需要显示内容时，将混淆内容内容输出到前端，同时，将@font-face语句以<style>标签形式插入到前端代码中，混淆内容通过@font-face的字体即可还原出原始内容。
 
 # 二、环境
-1.PHP 5.2及以上版本
+1.PHP 5.2及以上版本<br/>
 2.<a href="https://github.com/youziku/youziku-plus-sdk-php/archive/master.zip">下载</a>
 
 # 三、引用
